@@ -1,0 +1,51 @@
+ID,sex,age,address,famsize,Medu,Fedu,Mjob,Fjob,reason,guardian,traveltime,studytime,failures,schoolsup,famsup,paid,activities,nursery,higher,internet,famrel,freetime,absences
+601,F,17,Urban,greater than 3 persons,5th to 9th grade,5th to 9th grade,other,at_home,home,mother,less than 15 min.,5 to 10 hours,0,no,no,no,yes,yes,yes,no,normal,high,8
+602,F,17,Rural,greater than 3 persons,primary education (4th grade),5th to 9th grade,other,other,course,mother,less than 15 min.,less than 2 hours,0,no,no,no,yes,yes,yes,yes,normal,very high,4
+603,F,18,Rural,3 persons or less,higher education,higher education,other,other,reputation,mother,15 to 30 min.,5 to 10 hours,0,no,no,no,no,yes,yes,yes,excellent,high,0
+604,F,18,Rural,greater than 3 persons,primary education (4th grade),primary education (4th grade),other,other,home,mother,more than 1 hour,5 to 10 hours,0,no,no,no,no,yes,yes,yes,good,medium,4
+605,F,19,Rural,greater than 3 persons,primary education (4th grade),primary education (4th grade),at_home,other,course,other,15 to 30 min.,2 to 5 hours,1,no,yes,no,no,yes,yes,yes,good,medium,4
+606,F,18,Rural,3 persons or less,higher education,higher education,teacher,services,course,mother,less than 15 min.,2 to 5 hours,0,no,no,no,yes,yes,yes,yes,excellent,high,1
+607,F,18,Urban,greater than 3 persons,secondary education,secondary education,other,other,home,mother,less than 15 min.,2 to 5 hours,0,no,no,no,no,yes,yes,yes,good,very low,1
+608,F,17,Rural,greater than 3 persons,secondary education,primary education (4th grade),at_home,other,reputation,mother,less than 15 min.,2 to 5 hours,0,no,yes,no,yes,no,yes,yes,good,very high,10
+609,F,17,Urban,greater than 3 persons,primary education (4th grade),primary education (4th grade),services,teacher,reputation,mother,less than 15 min.,5 to 10 hours,0,no,yes,no,no,yes,yes,yes,good,medium,0
+610,M,18,Urban,greater than 3 persons,5th to 9th grade,primary education (4th grade),services,services,reputation,mother,less than 15 min.,5 to 10 hours,0,no,no,no,yes,yes,yes,yes,good,low,0
+611,M,18,Urban,3 persons or less,higher education,higher education,teacher,teacher,reputation,mother,less than 15 min.,2 to 5 hours,0,no,yes,no,yes,yes,yes,yes,excellent,high,0
+612,M,18,Urban,greater than 3 persons,higher education,5th to 9th grade,teacher,other,home,mother,less than 15 min.,2 to 5 hours,0,no,yes,no,yes,yes,yes,yes,good,medium,2
+613,F,17,Urban,greater than 3 persons,higher education,secondary education,health,services,reputation,mother,less than 15 min.,5 to 10 hours,0,no,yes,no,no,yes,yes,yes,good,low,0
+614,F,17,Rural,3 persons or less,secondary education,primary education (4th grade),services,other,reputation,,15 to 30 min.,more than 10 hours,0,no,yes,no,no,yes,yes,no,normal,very low,0
+615,M,18,Rural,3 persons or less,secondary education,5th to 9th grade,services,other,reputation,mother,15 to 30 min.,5 to 10 hours,0,no,yes,no,yes,yes,yes,yes,excellent,high,0
+616,M,17,Urban,greater than 3 persons,,secondary education,health,other,home,mother,less than 15 min.,less than 2 hours,0,no,yes,no,no,yes,yes,yes,good,high,0
+617,F,19,Urban,greater than 3 persons,higher education,higher education,health,other,reputation,other,15 to 30 min.,2 to 5 hours,0,no,yes,no,yes,yes,yes,yes,bad,medium,2
+618,F,18,Urban,3 persons or less,higher education,secondary education,other,other,home,other,15 to 30 min.,2 to 5 hours,0,no,yes,no,no,yes,yes,yes,good,high,0
+619,F,18,Urban,greater than 3 persons,higher education,secondary education,other,other,reputation,father,less than 15 min.,more than 10 hours,0,no,yes,no,no,yes,yes,yes,good,medium,0
+620,M,18,Urban,3 persons or less,higher education,higher education,teacher,teacher,home,mother,less than 15 min.,less than 2 hours,0,no,yes,no,no,yes,yes,yes,very bad,high,0
+621,F,18,Urban,3 persons or less,higher education,higher education,health,other,home,mother,less than 15 min.,2 to 5 hours,0,no,yes,yes,no,yes,yes,yes,good,low,0
+622,M,17,Urban,3 persons or less,higher education,higher education,other,teacher,home,father,15 to 30 min.,less than 2 hours,0,no,no,no,no,yes,yes,yes,good,very low,0
+623,F,17,Rural,greater than 3 persons,higher education,higher education,services,services,reputation,mother,15 to 30 min.,5 to 10 hours,0,no,yes,no,yes,yes,yes,yes,excellent,medium,0
+624,F,17,Urban,greater than 3 persons,higher education,5th to 9th grade,other,other,reputation,mother,15 to 30 min.,5 to 10 hours,0,no,yes,no,no,yes,yes,yes,good,medium,0
+625,F,17,Urban,greater than 3 persons,secondary education,5th to 9th grade,health,health,reputation,father,less than 15 min.,more than 10 hours,0,no,yes,no,yes,no,yes,yes,excellent,low,0
+626,M,19,Rural,3 persons or less,5th to 9th grade,primary education (4th grade),at_home,services,course,mother,15 to 30 min.,5 to 10 hours,1,no,no,no,yes,yes,yes,yes,good,medium,0
+627,M,20,Urban,greater than 3 persons,secondary education,5th to 9th grade,services,other,course,other,less than 15 min.,less than 2 hours,2,no,no,no,yes,yes,yes,no,excellent,very high,0
+628,M,19,Rural,greater than 3 persons,secondary education,secondary education,other,services,reputation,father,less than 15 min.,2 to 5 hours,0,no,no,no,yes,yes,yes,no,good,very high,0
+629,F,18,Urban,greater than 3 persons,primary education (4th grade),higher education,other,teacher,home,mother,less than 15 min.,2 to 5 hours,0,yes,yes,no,no,no,yes,no,normal,high,2
+630,F,18,Urban,greater than 3 persons,5th to 9th grade,primary education (4th grade),services,other,course,mother,15 to 30 min.,2 to 5 hours,0,no,yes,no,yes,yes,yes,yes,excellent,medium,2
+631,F,17,Urban,greater than 3 persons,5th to 9th grade,secondary education,other,other,course,father,15 to 30 min.,2 to 5 hours,0,no,no,no,yes,yes,yes,yes,good,low,2
+632,F,17,Rural,greater than 3 persons,higher education,higher education,teacher,teacher,course,mother,less than 15 min.,less than 2 hours,0,no,no,no,yes,yes,yes,yes,good,high,2
+633,F,18,Urban,greater than 3 persons,higher education,secondary education,other,other,course,mother,less than 15 min.,5 to 10 hours,0,no,yes,no,yes,yes,yes,yes,good,medium,2
+634,F,18,Urban,3 persons or less,higher education,secondary education,health,services,course,mother,15 to 30 min.,less than 2 hours,0,no,yes,no,no,yes,yes,yes,normal,low,8
+635,F,17,Rural,greater than 3 persons,secondary education,higher education,at_home,services,course,father,less than 15 min.,5 to 10 hours,0,no,yes,no,yes,no,yes,yes,good,medium,2
+636,F,18,Urban,greater than 3 persons,secondary education,secondary education,at_home,other,course,father,less than 15 min.,2 to 5 hours,0,no,yes,no,no,yes,yes,yes,good,very low,8
+637,M,18,Urban,greater than 3 persons,higher education,,teacher,teacher,home,father,less than 15 min.,2 to 5 hours,0,no,no,no,yes,no,yes,yes,normal,low,4
+638,M,18,Rural,greater than 3 persons,5th to 9th grade,primary education (4th grade),other,other,other,mother,15 to 30 min.,less than 2 hours,0,no,no,no,yes,no,yes,yes,good,high,0
+639,M,17,Urban,greater than 3 persons,5th to 9th grade,secondary education,other,services,home,father,15 to 30 min.,2 to 5 hours,0,no,no,no,yes,yes,yes,yes,good,high,4
+640,M,19,Rural,greater than 3 persons,primary education (4th grade),primary education (4th grade),other,services,other,mother,15 to 30 min.,less than 2 hours,1,no,no,no,no,yes,yes,no,good,medium,0
+641,M,18,Rural,greater than 3 persons,higher education,5th to 9th grade,other,other,home,father,15 to 30 min.,less than 2 hours,1,no,no,yes,no,yes,yes,no,excellent,high,0
+642,F,18,Rural,greater than 3 persons,5th to 9th grade,5th to 9th grade,at_home,other,other,mother,15 to 30 min.,5 to 10 hours,0,no,no,no,no,yes,yes,no,excellent,medium,0
+643,F,17,Urban,greater than 3 persons,higher education,secondary education,teacher,other,other,mother,15 to 30 min.,2 to 5 hours,0,no,no,no,no,yes,yes,yes,excellent,very high,0
+644,F,18,Rural,greater than 3 persons,higher education,higher education,teacher,at_home,reputation,mother,30 min. to 1 hour,less than 2 hours,0,no,yes,no,yes,yes,yes,yes,good,high,4
+645,F,19,Rural,greater than 3 persons,5th to 9th grade,secondary education,services,other,course,mother,less than 15 min.,5 to 10 hours,1,no,no,no,yes,no,yes,yes,excellent,high,4
+646,F,18,Urban,3 persons or less,secondary education,primary education (4th grade),teacher,services,course,mother,less than 15 min.,2 to 5 hours,0,no,yes,no,no,yes,yes,yes,good,medium,4
+647,F,18,Urban,greater than 3 persons,,primary education (4th grade),other,other,course,mother,15 to 30 min.,2 to 5 hours,0,no,no,no,yes,yes,yes,no,very bad,very low,6
+648,M,17,Urban,3 persons or less,secondary education,primary education (4th grade),services,services,course,mother,15 to 30 min.,less than 2 hours,0,no,no,no,no,no,yes,yes,bad,high,6
+649,M,18,Rural,3 persons or less,secondary education,5th to 9th grade,services,other,course,,30 min. to 1 hour,less than 2 hours,0,no,no,no,no,no,yes,yes,good,high,4
+650,F,18,Rural,greater than 3 persons,primary education (4th grade),primary education (4th grade),at_home,other,other,mother,less than 15 min.,2 to 5 hours,1,no,yes,no,no,yes,yes,yes,good,medium,9
